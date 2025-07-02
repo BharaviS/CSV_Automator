@@ -79,7 +79,7 @@ Sai | sai@mymail.com | 02-07-2025
 
 For questions, suggestions, or collaborations:
 
-📧 **Email:** `bharavi@mymail.com`  
+📧 **Email:** `bharavis0@gmail.com`  
 💼 **GitHub:** [github.com/BharaviS](https://github.com/BharaviS)  
 🔗 **LinkedIn:** [linkedin.com/in/bharavi-sadineni-b97218192](https://www.linkedin.com/in/bharavi-sadineni-b97218192)
 
