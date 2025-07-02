@@ -1,5 +1,8 @@
 # 📂 CSV Automator – Simple Python CSV Tool
 
+![Python](https://img.shields.io/badge/python-3.13-blue)
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
 A beginner-friendly Python project that performs basic CSV file operations including writing, appending, and reading data. Built for learning and lightweight automation tasks.
 
 ---
@@ -33,7 +36,7 @@ Make sure you have Python 3.10+ installed.
 ```bash
 python csv_automator.py
 ```
-## 📦 Sample Output
+## 📊 Example Output
 
 ✅ CSV file created and first user written.
 
@@ -47,13 +50,12 @@ Charai | chari@mymail.com | 02-07-2025
 Sai | sai@mymail.com | 02-07-2025
 ```
 ---
-![Python](https://img.shields.io/badge/python-3.13-blue)
-![License: MIT](https://img.shields.io/badge/license-MIT-green)
----
 
 ## 🖼️ Demo
 
 <img src="./demo.png" alt="Demo screenshot" width="600"/>
+
+> 🖼️ *Note: Add a real screenshot named `demo.png` in your project folder for visual demo.*
 
 Or console view:
 
@@ -64,14 +66,14 @@ Bharavi | bharavi@mymail.com | 02-07-2025
 Charai | chari@mymail.com | 02-07-2025
 Sai | sai@mymail.com | 02-07-2025
 ```
-
+---
 ## 🙋‍♂️ Author
 
 **Bharavi Sadineni**  
 🧑‍💻 Python Developer & Tech Enthusiast  
 - 🌐 [GitHub](https://github.com/BharaviS)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bharavi-sadineni-b97218192)  
-- 📧 Email: bharavi@mymail.com
+- 📧 Email: bharavis0@gmail.com
 
 ---
 
