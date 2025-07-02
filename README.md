@@ -32,3 +32,17 @@ Make sure you have Python 3.10+ installed.
 
 ```bash
 python csv_automator.py
+```
+## 📦 Sample Output
+
+✅ CSV file created and first user written.
+
+✅ More users appended to CSV.
+
+```
+📄 Current CSV Content:
+Name | Email | Joined_Date
+Bharavi | bharavi@mymail.com | 02-07-2025
+Charai | chari@mymail.com | 02-07-2025
+Sai | sai@mymail.com | 02-07-2025
+```
