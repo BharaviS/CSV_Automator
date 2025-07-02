@@ -46,3 +46,40 @@ Bharavi | bharavi@mymail.com | 02-07-2025
 Charai | chari@mymail.com | 02-07-2025
 Sai | sai@mymail.com | 02-07-2025
 ```
+---
+![Python](https://img.shields.io/badge/python-3.13-blue)
+![License: MIT](https://img.shields.io/badge/license-MIT-green)
+---
+
+## 🖼️ Demo
+
+<img src="./demo.png" alt="Demo screenshot" width="600"/>
+
+Or console view:
+
+```
+📄 Current CSV Content:
+Name | Email | Joined_Date
+Bharavi | bharavi@mymail.com | 02-07-2025
+Charai | chari@mymail.com | 02-07-2025
+Sai | sai@mymail.com | 02-07-2025
+```
+
+## 🙋‍♂️ Author
+
+**Bharavi Sadineni**  
+🧑‍💻 Python Developer & Tech Enthusiast  
+- 🌐 [GitHub](https://github.com/BharaviS)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bharavi-sadineni-b97218192)  
+- 📧 Email: bharavi@mymail.com
+
+---
+
+## 📬 Contact
+
+For questions, suggestions, or collaborations:
+
+📧 **Email:** `bharavi@mymail.com`  
+💼 **GitHub:** [github.com/BharaviS](https://github.com/BharaviS)  
+🔗 **LinkedIn:** [linkedin.com/in/bharavi-sadineni-b97218192](https://www.linkedin.com/in/bharavi-sadineni-b97218192)
+
